@@ -4,17 +4,28 @@
 
 
 .column1 { 
-	width: 40%;
+	width: 30%;
   	display: inline-block;
-  	vertical-align: top;
-  	margin-top: 30px;
-  	border: 1px solid #dfe2e5;
+  	border: 1px solid black;
+  	padding: 10px;
+	float: left;
+	margin: 30px;
+	font-size: 40px;
 }
 
 .column2 { 
-	width: 40%;
+	width: 30%;
   	display: inline-block;
-  	vertical-align: top;
-  	margin-top: 30px;
-  	border: 1px solid #dfe2e5;
+  	border: 1px solid black;
+  	padding: 10px;
+  	float:left;
+  	margin: 30px;
+  	font-size: 40px;
+}
+
+button {
+	width: 30%;
+	margin: 100px 100px 100px 200px;
+	text-align: center;
+	font-size: 40px;
 }
